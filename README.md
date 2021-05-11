@@ -13,7 +13,7 @@ parch | Número de pais/filhos de um passageiro abordo |
 ticket | Número do bilhete |
 fare   | Tarifa do passageiro |
 cabin  | Cabine |
-embarked | Porto de embarcação |
+embarked | Porto de embarcação | C = Cherbourg, Q = Queenstown, S = Southampton
 
 Notas sobre as variáveis:\
 pclass: Uma "aproximação" da classe social do indíviduo.\
