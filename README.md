@@ -1,5 +1,11 @@
 # TitanicProject Kaggle - Top 17% - Acurácia 0.78468
- Projeto de DataScience Titanic
+O naufrágio do Titanic é um dos naufrágios mais infames da história.
+
+A 15 de Abril de 1912, durante a sua viagem inaugural, o amplamente considerado "afundado" RMS Titanic afundou-se após colidir com um iceberg. Infelizmente, não havia barcos salva-vidas suficientes para todos a bordo, resultando na morte de 1502 dos 2224 passageiros e tripulação.
+
+Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que alguns grupos de pessoas tinham mais probabilidades de sobreviver do que outros.
+
+Neste desafio, irei produzir um modelo preditivo que responda à seguinte pergunta: "que tipos de pessoas tinham mais probabilidades de sobreviver?", utilizando dados sobre passageiros (ou seja, nome, idade, sexo, classe socioeconómica, etc.). 
 
 Dicionário dos dados
 Variável  | Definição | Chave
