@@ -1,7 +1,7 @@
 # TitanicProject Kaggle - Top 17% - Acurácia 0.78468
 O naufrágio do Titanic é um dos naufrágios mais infames da história.
 
-A 15 de Abril de 1912, durante a sua viagem inaugural, o amplamente considerado "afundado" RMS Titanic afundou-se após colidir com um iceberg. Infelizmente, não havia barcos salva-vidas suficientes para todos a bordo, resultando na morte de 1502 dos 2224 passageiros e tripulação.
+Em 15 de Abril de 1912, durante a sua viagem inaugural, o então considerado não afundável RMS Titanic afundou-se após colidir com um iceberg. Infelizmente, não havia barcos salva-vidas suficientes para todos a bordo, resultando na morte de 1502 dos 2224 passageiros e tripulação.
 
 Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que alguns grupos de pessoas tinham mais probabilidades de sobreviver do que outros.
 
