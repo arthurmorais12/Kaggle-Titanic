@@ -7,6 +7,10 @@ Embora houvesse algum elemento de sorte envolvido na sobrevivência, parece que 
 
 Neste desafio, irei produzir um modelo preditivo que responda à seguinte pergunta: "que tipos de pessoas tinham mais probabilidades de sobreviver?", utilizando dados sobre passageiros (ou seja, nome, idade, sexo, classe socioeconómica, etc.). 
 
+
+O repositório possui dois arquivos: Um em que realizo uma análise exploratória e o pré-processamento dos dados, no outro realizo a modelagem.
+
+
 Dicionário dos dados
 Variável  | Definição | Chave
 --- | --- | ---
