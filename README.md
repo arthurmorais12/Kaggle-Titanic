@@ -1,4 +1,4 @@
-# TitanicProject
+# TitanicProject Kaggle - Top 17% - Acurácia 0.78468
  Projeto de DataScience Titanic
 
 Dicionário dos dados
